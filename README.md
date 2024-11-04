@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshayan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="mdshayan-hub" /> </p>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently Student of **Software Engineering**
 
-- 💬 Ask me about **React.js**
+- 💬All of my projects are available at <a href="my-portfolio-five-lemon-43.vercel.app"/></a>
+
+- 💬 Ask me about **Front-end Development**
 
 - 📫 How to reach me **shayanjamal142005@gmail.com**
 
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shayan jamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan jamal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shayan-jamal-a79285332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan jamal" height="30" width="40" /></a>
 <a href="https://fb.com/md shayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md shayan" height="30" width="40" /></a>
 <a href="https://instagram.com/mdshayan187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdshayan187" height="30" width="40" /></a>
 </p>
