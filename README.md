@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Student of **Software Engineering**
 
-- 💬All of my projects are available at <a href="my-portfolio-five-lemon-43.vercel.app"/></a>
+- 💬All of my projects are available at **my-portfolio-five-lemon-43.vercel.app**
 
 - 💬 Ask me about **Front-end Development**
 
