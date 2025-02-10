@@ -1,4 +1,4 @@
-![logo](https://github.com/mdshayan-hub/mdshayan-hub/blob/main/my%20mybanner.png)
+![logo](https://github.com/mdshayan-hub/mdshayan-hub/blob/main/my%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Shayan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
