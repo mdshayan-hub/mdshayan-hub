@@ -1,7 +1,8 @@
 ![logo](https://github.com/mdshayan-hub/mdshayan-hub/blob/main/Github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Shayan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full-stack
+  developer from Pakistan</h3>
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
@@ -11,7 +12,7 @@
 
 - 💬All of my projects are available at <a href="https://mdshayan.vercel.app"></a>
 
-- 💬 Ask me about **Front-end Development**
+- 💬 Ask me about **Backend-end Development**
 
 - 📫 How to reach me **shayanjamal142005@gmail.com**
 
